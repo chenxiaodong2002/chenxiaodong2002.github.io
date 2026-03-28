@@ -48,7 +48,7 @@ My research focuses on:
   <!-- Paper 1: ICLR 2025 -->
   <tr>
     <td style="padding:20px;width:30%;vertical-align:middle">
-      <img src="../main_mecd.png" alt="LLM-Streamline" style="width:100%; max-width:250px; border-radius:5px; box-shadow:0 2px 5px rgba(0,0,0,0.1)">
+      <img src="../main_llm_streamline.png" alt="LLM-Streamline" style="width:100%; max-width:250px; border-radius:5px; box-shadow:0 2px 5px rgba(0,0,0,0.1)">
     </td>
     <td style="padding:20px;width:70%;vertical-align:middle">
       <a href="https://openreview.net/forum?id=IC5RJvRoMp">
@@ -67,7 +67,7 @@ My research focuses on:
   <!-- Paper 2: ACL 2025 -->
   <tr>
     <td style="padding:20px;width:30%;vertical-align:middle">
-      <img src="../main_mecd2.png" alt="P2 Law" style="width:100%; max-width:250px; border-radius:5px; box-shadow:0 2px 5px rgba(0,0,0,0.1)">
+      <img src="../main_p2_law.png" alt="P2 Law" style="width:100%; max-width:250px; border-radius:5px; box-shadow:0 2px 5px rgba(0,0,0,0.1)">
     </td>
     <td style="padding:20px;width:70%;vertical-align:middle">
       <a href="https://aclanthology.org/2025.acl-long.283/">
@@ -85,7 +85,7 @@ My research focuses on:
   <!-- Paper 3: ICLR 2026 -->
   <tr>
     <td style="padding:20px;width:30%;vertical-align:middle">
-      <img src="../main_mecd2.png" alt="MoBE" style="width:100%; max-width:250px; border-radius:5px; box-shadow:0 2px 5px rgba(0,0,0,0.1)">
+      <img src="../main_mobe.png" alt="MoBE" style="width:100%; max-width:250px; border-radius:5px; box-shadow:0 2px 5px rgba(0,0,0,0.1)">
     </td>
     <td style="padding:20px;width:70%;vertical-align:middle">
       <a href="https://arxiv.org/abs/2508.05257">
