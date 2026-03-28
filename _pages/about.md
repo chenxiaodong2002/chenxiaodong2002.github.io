@@ -121,3 +121,13 @@ My research focuses on:
 </table>
 
 ---
+
+## 🚀 Major Project Contribution
+
+### GLM-5: From Vibe Coding to Agentic Engineering
+
+I am a **core contributor** to **GLM-5**, the latest generation of the GLM foundation model series developed at Zhipu AI. This work represents a significant advancement in building capable and efficient agentic foundation models.
+
+<a href="https://arxiv.org/pdf/2602.15763"><img src="https://img.shields.io/badge/Technical_Report-arXiv-b31b1b.svg?logo=arXiv" alt="arXiv"></a>
+
+---
