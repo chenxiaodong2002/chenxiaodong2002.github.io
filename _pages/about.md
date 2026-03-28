@@ -122,12 +122,22 @@ My research focuses on:
 
 ---
 
-## 🚀 Major Project Contribution
+<h2>🚀 Major Project Contribution</h2>
 
-### GLM-5: From Vibe Coding to Agentic Engineering
-
-I am a **core contributor** to **GLM-5**, the latest generation of the GLM foundation model series developed at Zhipu AI. This work represents a significant advancement in building capable and efficient agentic foundation models.
-
-<a href="https://arxiv.org/pdf/2602.15763"><img src="https://img.shields.io/badge/Technical_Report-arXiv-b31b1b.svg?logo=arXiv" alt="arXiv"></a>
+<div style="background: #f8f9fa; padding: 15px 20px; border-radius: 10px; margin-bottom: 20px;">
+  <p style="font-size: 1.1em; margin: 0 0 5px 0;">
+    <strong><a href="https://arxiv.org/pdf/2602.15763" style="text-decoration: none;">GLM-5: From Vibe Coding to Agentic Engineering</a></strong>
+    <span style="background: #d9534f; color: white; font-size: 0.7em; padding: 2px 8px; border-radius: 12px; margin-left: 8px;">Zhipu AI · Core Contributor</span>
+  </p>
+  <p><strong>My Contribution: Parameter-Shared MTP Layer</strong><br>
+  Proposed a novel parameter-shared Multi-Token Prediction (MTP) layer for speculative decoding, which:</p>
+  <ul style="margin-top: 5px; padding-left: 20px;">
+    <li>✅ <strong>Improves acceptance rate</strong> of speculative tokens, accelerating inference speed</li>
+    <li>✅ Integrated into GLM-5 serving pipeline for efficient deployment</li>
+  </ul>
+  <p style="margin-bottom: 0;">
+    <a href="https://arxiv.org/pdf/2602.15763"><img src="https://img.shields.io/badge/Read_Report-arXiv-b31b1b.svg?logo=arXiv" alt="arXiv"></a>
+  </p>
+</div>
 
 ---
