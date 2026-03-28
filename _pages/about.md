@@ -41,7 +41,7 @@ My research focuses on:
 
 ---
 
-## 📝 First-Author Publications
+## 📝 Selected Publications
 
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
 
