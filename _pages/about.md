@@ -9,13 +9,13 @@ redirect_from:
 
 ## 👋 About Me
 
-Hello! I am **Xiaodong Chen**, currently a second-year M.S. student at **Renmin University of China**, **School of Information**, where I am advised by Prof. **[Jing Zhang](https://xiaojingzi.github.io/)**. During my M.S. studies, I have authored **6 papers**, with **3 as first author**, published at top-tier venues including **ACL** and **ICLR**.
+Hello! I am **Xiaodong Chen**, currently a second-year M.S. student at **Renmin University of China**, **School of Information**, where I am advised by Prof. **[Jing Zhang](https://xiaojingzi.github.io/)**. During my M.S. studies so far, I have authored **6 papers**, with **3 as first author**, published at top-tier venues including **ACL** and **ICLR**.
 
 Prior to this, I completed my B.Eng. degree at **Xi'an Jiaotong University**, **School of Computer Science and Technology** (2020–2024), graduating **1st out of 33** in my cohort.
 
-I previously worked as a Research Intern at the **AGI Center, Ant Research Institute** (Mar. 2025 – Oct. 2025), supervised by [Jianguo Li](https://sites.google.com/site/leeplus/) and [Haoxing Chen](https://chenhaoxing.github.io/).
+I previously worked as a Research Intern at the **AGI Center, Ant Research Institute** (Mar. 2025 – Oct. 2025), supervised by **[Jianguo Li](https://sites.google.com/site/leeplus/)** and **[Haoxing Chen](https://chenhaoxing.github.io/)**.
 
-Most recently, I interned with the **GLM Foundation Model Group** at **Zhipu AI** (Nov. 2025 – Apr. 2026), working under the guidance of [Zhengxiao Du](https://zxdu.xyz/).
+Most recently, I interned with the **GLM Foundation Model Group** at **Zhipu AI** (Nov. 2025 – Apr. 2026), working under the guidance of **[Zhengxiao Du](https://zxdu.xyz/)**.
 
 ---
 
@@ -23,8 +23,8 @@ Most recently, I interned with the **GLM Foundation Model Group** at **Zhipu AI*
 
 My research focuses on:
 
-- 🏗️ **Model Architecture**
-- ✂️ **Model Compression**
+- 🏗️ **Pre-training Model Architecture Improvement**
+- ✂️ **Model Compression & Inference Acceleration**
 - ⚡ **Speculative Decoding**
 
 📫 Feel free to reach out via email:  
@@ -34,10 +34,10 @@ My research focuses on:
 
 ## 🥇 Honors and Awards
 
-- **China National Scholarship** (2025) — *Top 1%*
-- **Renmin University of China Academic Excellence Scholarship — First Prize** (2025) — *Top 5%*
-- **Renmin University of China Academic Excellence Scholarship — First Prize** (2024) — *Top 5%*
-- **Xi'an Jiaotong University Academic Scholarship — First Prize** (2022) — *Top 5%*
+- **China National Scholarship** (2025) 
+- **Renmin University of China Academic Excellence Scholarship — First Prize** (2025) 
+- **Renmin University of China Academic Excellence Scholarship — First Prize** (2024) 
+- **Xi'an Jiaotong University Academic Scholarship — First Prize** (2022) 
 
 ---
 
